@@ -10,9 +10,13 @@ The Vehicle Management System is a C++ application designed to manage a fleet of
 
 **Display all vehicles
 
-**Update vehicle details **Search for vehicle by make or model 
+**Update vehicle details 
 
-**Save vehicle data to a file **Load vehicle data from a file
+**Search for vehicle by make or model 
+
+**Save vehicle data to a file 
+
+**Load vehicle data from a file
 
 **Remove a vehicle by ID
 
@@ -26,7 +30,9 @@ The Vehicle Management System is a C++ application designed to manage a fleet of
 
 **Search for a vehicle: Searches for vehicles by make or model and displays matching results. 
 
-**Save vehicles to file: Saves the current collection of vehicles to a specified file. **Load vehicles from file: Loads vehicles from a specified file into the collection. 
+**Save vehicles to file: Saves the current collection of vehicles to a specified file. 
+
+**Load vehicles from file: Loads vehicles from a specified file into the collection. 
 
 **Remove a vehicle: Removes a vehicle from the collection by its ID. 
 
